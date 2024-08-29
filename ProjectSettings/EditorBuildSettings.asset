@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenu.unity
+    guid: 417761dbddf63b443b4ceb1b47abc80d
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelSelecter.unity
+    guid: 13d08b73b0ae7e449bceb4613fc24e4d
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level1.unity
+    guid: 6eba523ea7ebd86459154848d40c5e47
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level3.unity
+    guid: 709fb81c7785f464c981b59af5407d39
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level4.unity
+    guid: a76738d040da4f045bd3a4cf1ed19337
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level5.unity
+    guid: 42fc2895df91d874a8804a67455c5995
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level6.unity
+    guid: 5009352444d24ca438c789bfa9ada7e4
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level7.unity
+    guid: 1baba868fb82c2640ae73c8b83631cd1
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level8.unity
+    guid: 1dc9218b4b5eee04a93e2e7edd26fc7c
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level9.unity
+    guid: 843f5b304db9912428cd2c7a35daf0d5
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level10.unity
+    guid: 1bd7e8c55c3d409438f4344dedf54de2
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level11.unity
+    guid: fe55130f0320c1e40bb11ddeeeac04f3
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level12.unity
+    guid: 9cbeb198284896345833224e97495a4c
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level13.unity
+    guid: 436ff76eefa5cf741a3d832ac1416f2e
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level15.unity
+    guid: 7b3f0e57b605b114ba980fbdb93f4f49
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level14.unity
+    guid: 18a733fe0ee186f488d9f429fd7e1c52
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelS/Level16.unity
+    guid: 9fa00101a75d18d458f75f366a1f7f8a
+  - enabled: 1
+    path: Assets/Game/Scenes/Level17.unity
+    guid: af238cc57f09ed641b0555e98ed3a406
+  - enabled: 1
+    path: Assets/Game/Scenes/Level18.unity
+    guid: 67a6fe6751e2b094f9d7f093e9af42a1
+  - enabled: 1
+    path: Assets/Game/Scenes/Level19.unity
+    guid: 1dd7f5514a3738d43ac183d003fd9edc
+  - enabled: 1
+    path: Assets/Game/Scenes/Level20.unity
+    guid: a39022db545234f4ca5f01908f8ab2c7
+  - enabled: 1
+    path: Assets/Game/Scenes/Level21.unity
+    guid: d254624c496221b4dae216bc607ca8a2
+  m_configObjects: {}
